@@ -1,0 +1,6 @@
+PATH=/home/phoenix/.local/bin:/usr/local/bin:/usr/bin:/var/lib/snapd/snap/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+LOGNAME=phoenix
+HOME=/home/phoenix
+LANG=ru_RU.UTF-8
+TERM=xterm-256color
+USER=phoenix
