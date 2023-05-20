@@ -8,3 +8,5 @@
 ## To rebuild
 1. Got to `cmake-build-debug`
 2. `make && ./lab4`
+
+## Variant - 1
